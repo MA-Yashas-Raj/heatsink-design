@@ -1,12 +1,5 @@
 # Heat Sink Design & Thermal Performance Evaluation
 
-![10 Fin Heat Sink](10fins.png)
-
-![15 Fin Heat Sink](15fins.png)
-
-![20 Fin Heat Sink](20fins.png)
-
-![Multi Fin Heat Sink](multifin.png)
 
 ## Overview
 
